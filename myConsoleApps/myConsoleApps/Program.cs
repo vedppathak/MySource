@@ -10,6 +10,9 @@ namespace myConsoleApps
     {
         static void Main(string[] args)
         {
+            //test 
+            Console.WriteLine("Hi...");
+            Console.Read();
         }
     }
 }

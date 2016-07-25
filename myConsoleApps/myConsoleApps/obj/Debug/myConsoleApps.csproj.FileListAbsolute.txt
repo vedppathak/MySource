@@ -1,1 +1,6 @@
 D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\bin\Debug\myConsoleApps.exe.config
+D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\bin\Debug\myConsoleApps.exe
+D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\bin\Debug\myConsoleApps.pdb
+D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\obj\Debug\myConsoleApps.csprojResolveAssemblyReference.cache
+D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\obj\Debug\myConsoleApps.exe
+D:\ved\GitSource\MySource\myConsoleApps\myConsoleApps\obj\Debug\myConsoleApps.pdb
