@@ -12,6 +12,7 @@ namespace myConsoleApps
         {
             //test 
             Console.WriteLine("Hi...");
+            Console.ReadLine();
             Console.Read();
         }
     }
